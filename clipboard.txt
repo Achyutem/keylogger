@@ -1,0 +1,6 @@
+Clipboard text: 
+zxXXXXXXXXXXabcd Clipboard text:
+
+zxXXXXXXXXXXabcd Clipboard text:
+
+send_email(keyinfo, path + extend + keyinfo, toaddr)

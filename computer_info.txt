@@ -1,0 +1,12 @@
+Could not get public IP addressProcessor: Intel64 Family 6 Model XXX Stepping XX, GenuineIntel
+System: Windows 10.0.190XX
+Machine: AMD64
+Hostname: DESKTOP-XXXX8TX
+Ip Address: 192.168.XX.1
+
+Could not get public IP addressProcessor: Intel64 Family 6 Model XXX Stepping XX, GenuineIntel
+System: Windows 10.0.190XX
+Machine: AMD64
+Hostname: DESKTOP-XXXX8TX
+Ip Address: 192.168.XX.1
+
